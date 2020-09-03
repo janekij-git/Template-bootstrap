@@ -1,2 +1,0 @@
-# Template-bootstrap
-Bootsrap test
